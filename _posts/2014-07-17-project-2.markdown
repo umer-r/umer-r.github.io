@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 2
+date: 2021-01-01
+img: server.png
+alt: image-alt
+project-date: April 2020 - present
+#client: Start Bootstrap
+category: Systems Administration
+description: Completed several projects related to System administration, systems security, firewall and servers administration.
+---

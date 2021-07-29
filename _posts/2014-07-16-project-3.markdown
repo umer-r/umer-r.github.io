@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 3
+date: 2021-01-01
+img: script.png
+alt: image-alt
+project-date: Feb 2021 - present
+#client: Start Bootstrap
+category: Scripting/Development
+description: Completed projects related to Scripting, OS task automation and web scraping.
+---
